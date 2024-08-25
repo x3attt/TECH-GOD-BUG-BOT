@@ -24,7 +24,6 @@ global.author = 'x3rattt\n\nContact: +254775953381'
 //console view/theme
 global.themeemoji = '🩸'
 
-
 //theme link
 global.link = "https//:t.me/nextdoor3rd
 
